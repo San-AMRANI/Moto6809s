@@ -11,7 +11,7 @@
 	this version 1.8 support those instructions below:
 
 instruction de traitement:		
-(immédiat)				(inherant)
+(immédiat)				(Etendu)
 LDA #   				STA >
 LDB #   				STB >
 LDD #   				STD >
