@@ -21,7 +21,7 @@ LDX #   				STX >
 LDU #   				STU >
 
 instruction d'operation(immédiat):
-ADDA # ADDB # ADDD # ADCA # SUBA # SUBB # SUBD # ANDA # ANDB # BITA # BITB # EORA # EORB # ORA # ORB #
+ADDA # ADDB # ADDD # SUBA # SUBB # SUBD # ANDA # ANDB # BITA # BITB # EORA # EORB # ORA # ORB #
 CMPA # CMPB # CMPD # CMPS # CMPU # CMPX # CMPY #
 
 instruction de Mode d'addressage inherant:
